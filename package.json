@@ -1,0 +1,15 @@
+{
+  "name": "ciuno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node_index",
+    "test" : "mocha"
+  },
+  "author": "Stanley Girshik",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  }
+}
